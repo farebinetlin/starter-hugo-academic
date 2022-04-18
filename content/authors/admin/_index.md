@@ -1,7 +1,7 @@
 ---
 title: Fabin Lin 林法彬
 role: Neurosurgeon;  M.D student
-avatar_filename: ""
+avatar_filename: qq截图20220418202610.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -23,6 +23,3 @@ email: fabinlin@fjmu.edu.cn
 superuser: true
 highlight_name: true
 ---
-
-
-![](b1efe1442f9704ab5e4e45e6806a5475.jpeg)
