@@ -9,7 +9,17 @@ interests:
   - Network Meta-analysis
   - Machine learning
   - Deep learning
-social: []
+social:
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-7628-9152
+    icon_pack: ai
+    icon: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/#ICONS
+  - display:
+      header: false
+    link: https://fabinlin.netlify.app/
+    icon_pack: ai
+    icon: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/#ICONS
 organizations:
   - name: Fujian Medical University
   - name: Fujian Medical University Union Hospital
