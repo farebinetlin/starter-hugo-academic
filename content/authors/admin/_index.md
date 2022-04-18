@@ -11,9 +11,9 @@ interests:
   - Deep learning
 social: []
 organizations:
+  - name: Fujian Medical University
   - name: Fujian Medical University Union Hospital
     url: ""
-  - name: Fujian Medical University
 education:
   courses:
     - course: "BSc "
