@@ -1,7 +1,7 @@
 ---
 title: Fabin Lin 林法彬
 role: Neurosurgeon;  M.D student
-avatar_filename: ""
+avatar_filename: dsc_0007.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
