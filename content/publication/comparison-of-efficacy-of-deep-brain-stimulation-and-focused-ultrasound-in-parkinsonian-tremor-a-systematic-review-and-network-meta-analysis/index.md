@@ -32,6 +32,6 @@ categories:
 image:
   filename: qq截图20220418204150.jpg
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 date: 2021-01-18T12:52:00.000Z
 ---
