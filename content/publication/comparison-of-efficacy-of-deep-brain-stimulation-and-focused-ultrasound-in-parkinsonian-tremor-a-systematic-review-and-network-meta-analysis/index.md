@@ -26,7 +26,7 @@ abstract: "To compare the efficacy of deep brain stimulation (DBS) and
   individual patients' symptoms to ensure that the appropriate intervention and
   therapeutic approach are applied."
 draft: false
-featured: false
+featured: true
 categories:
   - Network Meta-analysis
 image:
